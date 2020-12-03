@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "Labyrinth/Labyrinth_Entry.json",
     "expandedProjectPaths": [
         ".",
-        "Labyrinth",
         "Tiles",
-        "Rollenspiel"
+        "Rollenspiel",
+        "Labyrinth"
     ],
     "fileStates": {
         "C:/Users/Nathanael/AppData/Local/Temp/Temp1_Pipoya RPG Tileset 32x32.zip/Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.tsx": {
@@ -81,11 +81,11 @@
             }
         },
         "Labyrinth/Labyrinth_Entry.json": {
-            "scale": 0.25,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1808,
-                "y": 1596
+                "x": 2993.75,
+                "y": 239
             }
         },
         "Labyrinth/Labyrinth_Entry.json#Colision": {
@@ -139,8 +139,8 @@
             "scale": 0.25,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1320,
-                "y": 1896
+                "x": 216,
+                "y": 1086
             }
         },
         "main.json#BaseChip_pipo": {
@@ -150,14 +150,14 @@
     "map.fixedSize": false,
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Labyrinth/Labyrinth_Entry.json",
-        "main.json"
+        "main.json",
+        "Labyrinth/Labyrinth_Entry.json"
     ],
     "project": "WeltiConRoom.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Labyrinth/Labyrinth_Entry.json",
         "main.json",
+        "Labyrinth/Labyrinth_Entry.json",
         "Rollenspiel/Rollenspiel_Ebene.tmx",
         "Tiles/WallOverlays.json",
         "Tiles/Decor.json",
