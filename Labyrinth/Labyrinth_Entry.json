@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Labyrinth_Entry.json#startLayerGraveyard"
+                 "value":"#startLayerGraveyard"
                 }],
          "type":"tilelayer",
          "visible":false,
